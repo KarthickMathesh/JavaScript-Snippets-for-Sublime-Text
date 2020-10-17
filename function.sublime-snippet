@@ -7,7 +7,7 @@ function ${1:function_name}(${2:argument}) {
 	]]>
 	</content>
 	<!-- tabTrigger -->
-	<tabTrigger>fn</tabTrigger>
+	<tabTrigger>fun</tabTrigger>
 	<!-- Description -->
 	<description>Function</description>
 	<!-- Scope -->
