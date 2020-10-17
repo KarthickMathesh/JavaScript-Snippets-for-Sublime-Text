@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-var ${1:varName} = ${2:value};
+var ${1:varName} = ${2:value}
 ]]>
 	</content>
 	<!-- tabTrigger -->
