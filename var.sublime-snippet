@@ -6,7 +6,7 @@ var ${1:varName} = ${2:value};
 	<!-- tabTrigger -->
 	<tabTrigger>var</tabTrigger>
 	<!-- Description -->
-	<description>var</description>
+	<description>Declare Var</description>
 	<!-- Scope -->
 	<scope>source.js</scope>
 </snippet>
