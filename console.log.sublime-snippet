@@ -1,8 +1,7 @@
 <snippet>
-	<content>
-	<![CDATA[
+	<content><![CDATA[
 console.log(${1});
-	]]>
+]]>
 	</content>
 	<!-- tabTrigger -->
 	<tabTrigger>cl</tabTrigger>
