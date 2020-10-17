@@ -1,0 +1,13 @@
+<snippet>
+	<content>
+	<![CDATA[
+const ${1:const_name} = ${2}
+	]]>
+	</content>
+	<!-- tabTrigger -->
+	<tabTrigger>const</tabTrigger>
+	<!-- Description -->
+	<description>Const</description>
+	<!-- Scope -->
+	<scope>source.js</scope>
+</snippet>
