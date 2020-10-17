@@ -1,8 +1,7 @@
 <snippet>
-	<content>
-	<![CDATA[
+	<content><![CDATA[
 const ${1:const_name} = ${2}
-	]]>
+]]>
 	</content>
 	<!-- tabTrigger -->
 	<tabTrigger>const</tabTrigger>
