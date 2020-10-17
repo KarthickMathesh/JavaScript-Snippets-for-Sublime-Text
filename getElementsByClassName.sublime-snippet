@@ -1,12 +1,12 @@
 <snippet>
 	<content><![CDATA[
-document.getElementById('${1}');
+getElementsByClassName('${1}');
 ]]>
 	</content>
 	<!-- tabTrigger -->
-	<tabTrigger>doc.gebi</tabTrigger>
+	<tabTrigger>gebc</tabTrigger>
 	<!-- Description -->
-	<description>document.getElementById('');</description>
+	<description>getElementsByClassName('');</description>
 	<!-- Scope -->
 	<scope>source.js</scope>
 </snippet>

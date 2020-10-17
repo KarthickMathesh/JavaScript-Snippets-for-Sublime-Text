@@ -1,12 +1,12 @@
 <snippet>
 	<content><![CDATA[
-const ${1:constName} = ${2:value}
+document.${1}
 ]]>
 	</content>
 	<!-- tabTrigger -->
-	<tabTrigger>const</tabTrigger>
+	<tabTrigger>doc</tabTrigger>
 	<!-- Description -->
-	<description>Declare Const</description>
+	<description>document</description>
 	<!-- Scope -->
 	<scope>source.js</scope>
 </snippet>
