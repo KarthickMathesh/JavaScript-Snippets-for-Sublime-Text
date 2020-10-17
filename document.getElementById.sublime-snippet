@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+document.getElementById('${1}');
+]]>
+	</content>
+	<!-- tabTrigger -->
+	<tabTrigger>dgebi</tabTrigger>
+	<!-- Description -->
+	<description>document.getElementById('');</description>
+	<!-- Scope -->
+	<scope>source.js</scope>
+</snippet>
