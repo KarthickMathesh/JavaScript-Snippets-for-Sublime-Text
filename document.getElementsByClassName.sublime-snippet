@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+document.getElementsByClassName('${1}');
+]]>
+	</content>
+	<!-- tabTrigger -->
+	<tabTrigger>doc.gebc</tabTrigger>
+	<!-- Description -->
+	<description>document.getElementsByClassName('');</description>
+	<!-- Scope -->
+	<scope>source.js</scope>
+</snippet>
