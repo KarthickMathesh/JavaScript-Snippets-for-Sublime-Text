@@ -4,7 +4,7 @@ document.getElementById('${1}');
 ]]>
 	</content>
 	<!-- tabTrigger -->
-	<tabTrigger>dgebi</tabTrigger>
+	<tabTrigger>doc.gebi</tabTrigger>
 	<!-- Description -->
 	<description>document.getElementById('');</description>
 	<!-- Scope -->
