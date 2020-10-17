@@ -1,0 +1,13 @@
+<snippet>
+	<content>
+	<![CDATA[
+console.log(${1});
+	]]>
+	</content>
+	<!-- tabTrigger -->
+	<tabTrigger>cl</tabTrigger>
+	<!-- Description -->
+	<description>Console Log</description>
+	<!-- Scope -->
+	<scope>source.js</scope>
+</snippet>
