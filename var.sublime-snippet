@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+var ${1:varName} = ${2:value};
+]]>
+	</content>
+	<!-- tabTrigger -->
+	<tabTrigger>var</tabTrigger>
+	<!-- Description -->
+	<!-- <description>Const</description> -->
+	<!-- Scope -->
+	<scope>source.js</scope>
+</snippet>
