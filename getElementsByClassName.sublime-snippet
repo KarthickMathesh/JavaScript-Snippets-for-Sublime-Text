@@ -4,7 +4,7 @@ getElementsByClassName('${1}');
 ]]>
 	</content>
 	<!-- tabTrigger -->
-	<tabTrigger>gebc</tabTrigger>
+	<tabTrigger>getbc</tabTrigger>
 	<!-- Description -->
 	<description>getElementsByClassName('');</description>
 	<!-- Scope -->
