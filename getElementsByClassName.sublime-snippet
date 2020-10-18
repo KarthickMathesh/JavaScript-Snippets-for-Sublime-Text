@@ -1,12 +1,12 @@
 <snippet>
 	<content><![CDATA[
-getElementsByClassName('${1}');
+getElementsByClassName("${1}");
 ]]>
 	</content>
 	<!-- tabTrigger -->
 	<tabTrigger>getbc</tabTrigger>
 	<!-- Description -->
-	<description>getElementsByClassName('');</description>
+	<description>getElementsByClassName("");</description>
 	<!-- Scope -->
 	<scope>source.js</scope>
 </snippet>
