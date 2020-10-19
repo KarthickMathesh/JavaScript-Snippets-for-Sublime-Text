@@ -40,3 +40,9 @@ var varName = value;
 ```js
 getElementById("");
 ```
+
+5. Snippet: `cmd`
+
+```js
+// Enter Commands Here..
+```
