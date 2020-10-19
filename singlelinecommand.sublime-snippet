@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+// ${1:Enter Commands Here..}
+]]>
+	</content>
+	<!-- tabTrigger -->
+	<tabTrigger>cmd</tabTrigger>
+	<!-- Description -->
+	<description>Single Line Command</description>
+	<!-- Scope -->
+	<scope>source.js</scope>
+</snippet>
