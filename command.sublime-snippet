@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-// ${1: Commands}
+// ${1:Enter Commands Here..}
 ]]>
 	</content>
 	<!-- tabTrigger -->
