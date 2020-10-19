@@ -38,7 +38,3 @@ var varName = value;
 ```js
 getElementById("");
 ```
-
-### Demo
-
-![demo](Demo.gif)
