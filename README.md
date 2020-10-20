@@ -4,14 +4,17 @@
 
 ### List of Snippets add to this Package
 
-| SI.No | tabTrigger | Description          |
-| ----- | ---------- | -------------------- |
-| 1.    | `fn`       | Function             |
-| 2.    | `const`    | Declare Const        |
-| 3.    | `var`      | Declare Var          |
-| 4.    | `gebi`     | Get Element By ID    |
-| 5.    | `gebc`     | Get Element By Class |
-| 6.    | `cmd`      | Single Line Command  |
+| SI.NO | Snippet | Description         | Expansion                              |
+| :---: | ------- | ------------------- | -------------------------------------- |
+|  1.   | `fn`    | Function            | `function function_name (arguments) {` |
+|       |         |                     | `// body ...`                          |
+|       |         |                     | `}`                                    |
+|  2.   | `const` | Declare Const       | `const constName = value;`             |
+|  3.   | `cmd`   | Single Line Command | `// Enter Commands Here..`             |
+|       |         |                     |                                        |
+|       |         |                     |                                        |
+|       |         |                     |                                        |
+|       |         |                     |                                        |
 
 #### Expansion of Snippets
 
