@@ -5,7 +5,7 @@
 | SI.NO | Snippet | Description         | Expansion                              |
 | :---: | ------- | ------------------- | -------------------------------------- |
 |  1.   | `fn`    | Function            | `function function_name (arguments) {` |
-|       |         |                     | `// body ...`                          |
+|       |         |                     | 	`// body ...`                    |      
 |       |         |                     | `}`                                    |
 |  2.   | `const` | Declare Const       | `const constName = value;`             |
 |  3.   | `cmd`   | Single Line Command | `// Enter Commands Here..`             |
