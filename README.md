@@ -1,7 +1,5 @@
 # Javascript Snippets For Sublime Text
 
----
-
 ### List of Snippets add to this Package
 
 | SI.NO | Snippet | Description         | Expansion                              |
