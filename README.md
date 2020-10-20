@@ -1,7 +1,8 @@
 # JavaScript-Snippets-for-Sublime-Text
 
-![Last Commit](https://img.shields.io/github/last-commit/KarthickMathesh/Sublime-JavaScript-Snippets?style=for-the-badge)
-![Repo Size](https://img.shields.io/github/repo-size/KarthickMathesh/Sublime-JavaScript-Snippets?style=for-the-badge)
+![Commit Activity](https://img.shields.io/github/commit-activity/m/KarthickMathesh/JavaScript-Snippets-for-Sublime-Text?style=for-the-badge)
+![Last Commit](https://img.shields.io/github/last-commit/KarthickMathesh/JavaScript-Snippets-for-Sublime-Text?style=for-the-badge)
+![Repo Size](https://img.shields.io/github/repo-size/KarthickMathesh/JavaScript-Snippets-for-Sublime-Text?style=for-the-badge)
 
 Sublime Text 3 Javascript Snippets for fast codeing.
 
@@ -29,19 +30,13 @@ function function_name(argument) {
 const constName = value;
 ```
 
-3. Snippet: `var`
-
-```js
-var varName = value;
-```
-
-4. Snippet:`gebi`
+3. Snippet:`gebi`
 
 ```js
 getElementById("");
 ```
 
-5. Snippet: `cmd`
+4. Snippet: `cmd`
 
 ```js
 // Enter Commands Here..
